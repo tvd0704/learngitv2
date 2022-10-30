@@ -1,0 +1,5 @@
+alert('hi javascrip basic')
+
+
+
+
